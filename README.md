@@ -1,5 +1,4 @@
 # biden-trump-showdown
-Predicting USA 2020 Elections.
 
 Using Tweepy to scrape twitter replies of Donald Trump and Joe Biden, and then analyzing the overall user attitude towards both of them using sentimental analysis.
 Plotted results using TextBlob
