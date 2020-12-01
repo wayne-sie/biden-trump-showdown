@@ -4,12 +4,12 @@ Using Tweepy to scrape twitter replies of Donald Trump and Joe Biden, and then a
 Plotted results using TextBlob
 
 Future Plans: 
-Fine tuning data (removing certain words)
-Scraping more tweet replies as the election draw nearer to improve accuracy
-Manually removing 
+Fine tuning data (removing certain words).
+Scraping more tweet replies as the election draw nearer to improve accuracy.
+Manually removing .
 
 Known issues:
-Dataset needs to increase in size, currently limited by Twitter API rate limit
-Sarcasm currently cannot be detected, could improve with context aware weighting
-Results is merely an extrapolation
+Dataset needs to increase in size, currently limited by Twitter API rate limit.
+Sarcasm currently cannot be detected, could improve with context aware weighting.
+Results is merely an extrapolation.
 
